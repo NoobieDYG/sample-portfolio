@@ -672,7 +672,7 @@ function App() {
       <section className="contact-section section-frame" id="contact">
         <div>
           <p className="eyebrow">Contact</p>
-          <h2>Let’s build something that can handle live data.</h2>
+          <h2>Let's build something that can handle live data.</h2>
           <p>
             Open to AI engineering, backend systems, computer vision, and LLM tooling
             conversations.
